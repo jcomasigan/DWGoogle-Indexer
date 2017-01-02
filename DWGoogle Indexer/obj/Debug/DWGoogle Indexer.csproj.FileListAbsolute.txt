@@ -1,0 +1,15 @@
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\obj\Debug\DWGoogle Indexer.csprojResolveAssemblyReference.cache
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\obj\Debug\DWGoogle.DWGoogle.resources
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\obj\Debug\DWGoogle Indexer.csproj.GenerateResource.Cache
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\DWGoogleIndex.sdf
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\DWGoogle.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\DWGoogle.pdb
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AcCoreMgd.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AcCui.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AcDbMgd.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AcMgd.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AcTcMgd.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AcWindows.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\bin\Debug\AdWindows.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\obj\Debug\DWGoogle.dll
+D:\DWGoogle Proj\DWGoogle Indexer\DWGoogle Indexer\obj\Debug\DWGoogle.pdb
